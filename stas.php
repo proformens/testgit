@@ -11,3 +11,4 @@ test line
 =======
 фывфыв
 >>>>>>> 41e0b24... stas.php: lol
+df
